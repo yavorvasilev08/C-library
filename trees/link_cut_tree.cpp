@@ -79,7 +79,6 @@ struct node
         sz = 1;
         rev = 0;
         y = my_rand();
-        //to++;
         x = value;
 
         par = nullptr;
